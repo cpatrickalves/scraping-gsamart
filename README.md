@@ -1,6 +1,6 @@
 # Scraping products from testmart.com
 
-This project Scrape GSAMART equipaments from testmart.com using Scrapy Web Crawling Framework.
+This project Scrape GSAMART equipment from testmart.com using Scrapy Web Crawling Framework.
 
 At the moment, the project has only one spider (python script) able to scrape the data of all equipment of the National Instruments corporation type.
 
